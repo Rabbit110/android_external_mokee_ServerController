@@ -779,6 +779,12 @@ $hardware_info = array(
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'Arm'),
+    'flo' => array('cpu' => 'Qualcomm® Snapdragon™ S4 Pro',
+                     'ram' => '2GB',
+                     'rom' => '16GB/64GB',
+                     'battery' => '3950 mAh',
+                     'display' => '7 inch, 1920x1080 pixel(323ppi)',
+                     'cpuarch' => 'Arm'),
 );
 
 foreach ($devices_info as $k => $val) {
